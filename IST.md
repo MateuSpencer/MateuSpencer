@@ -87,7 +87,7 @@ Some projects might not have a README file yet and others will be uploaded to Gi
     - Project: [ Humanaethica Site ] [ Java, Groovy, JavaScript ]
 
 - **Distributed Systems** *(Sistemas Distribuídos - **SD**)*
-    - Project: [TupleSpaces]([https://github.com/](https://github.com/MateuSpencer/SD_Projeto_23-24)) [ Java, Groovy ]
+    - Project: [TupleSpaces](https://github.com/MateuSpencer/SD_Projeto_23-24) [ Java, Groovy ]
 
 - **Compilers** *(Compiladores - **Com**)*
     - (Ongoing...) Project: [TIL Compiler] [ C++, Lex, Bison ]
