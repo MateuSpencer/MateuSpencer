@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Mateus Gonzalez Spencer. I am originally from Lisbon, Portugal but am currently ling in Copenhagen, Denmark!
+My Name is Mateus Gonzalez Spencer. I am originally from Lisbon, Portugal but live in Copenhagen, Denmark!
 
 - - My main interests are in Data Science, AI & Machine Learning.
 - 🎓 Finished my [Bachelor in Computer Science and Engineering(LEIC)](https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/computer-science-and-engineering/) at [IST](https://tecnico.ulisboa.pt/en/)
