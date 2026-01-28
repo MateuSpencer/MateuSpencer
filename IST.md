@@ -90,13 +90,13 @@ Some projects might not have a README file yet and others will be uploaded to Gi
     - Project: [TupleSpaces](https://github.com/MateuSpencer/SD_Projeto_23-24) [ Java, Groovy ]
 
 - **Compilers** *(Compiladores - **Com**)*
-    - (Ongoing...) Project: [TIL Compiler] [ C++, Lex, Bison ]
+    -  Project: [TIL Compiler] [ C++, Lex, Bison ]
 
 - **Computer Graphics** *(Computação Gráfica - **CG**)*
-    - (Ongoing...)Project 1: [Crane] [ JavaScript ]
-    - (Ongoing...)Project 2: [Carousel] [ JavaScript ]
+    - Project 1: [Crane] [ JavaScript ]
+    - Project 2: [Carousel] [ JavaScript ]
  
 - **1st Cycle Integrated Project in Computer Science and Engineering**
     - Open Source Contributions to [Oppia](https://github.com/oppia/oppia)
       - Project 1: [Bug Fix](https://github.com/oppia/oppia/pull/19953) [ TypeScript, HTML]
-      - (Ongoing...) Project 2: [Feature Implementation] [ TypeScript, HTML]
+      -  Project 2: [Feature Implementation] [ TypeScript, HTML]
