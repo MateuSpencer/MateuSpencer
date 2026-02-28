@@ -8,9 +8,9 @@ Originally from Lisbon, Portugal — currently based in Copenhagen, Denmark.
 
 ## About Me
 
-- 🎓 **MSc in Computer Science** — [University of Copenhagen (DIKU)](https://di.ku.dk/english/) *(AI focus, completing 2025)*
+- 🎓 **MSc in Computer Science** — [University of Copenhagen (DIKU)](https://di.ku.dk/english/) *(AI focus, completing 2026)*
 - 🎓 **BSc in Computer Science and Engineering** — [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), University of Lisbon
-- 💼 **Student Assistant @ Calibras** — building an industrial RAG system for risk assessment using agentic workflows and graph-based orchestration
+- 💼 **Student Assistant @ Calibras** — Building RAG systems using agentic workflows and graph-based orchestration
 - 💼 **Former GenAI Intern @ Deloitte** — explored AI solutions for enterprise workflows, prompt engineering, and structured outputs
 
 ## Interests
