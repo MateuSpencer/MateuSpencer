@@ -92,9 +92,9 @@ Some projects might not have a README file yet and others will be uploaded to Gi
 - **Compilers** *(Compiladores - **Com**)*
     -  Project: [TIL Compiler] [ C++, Lex, Bison ]
 
-- **Computer Graphics** *(Computação Gráfica - **CG**)*
-    - Project 1: [Crane] [ JavaScript ]
-    - Project 2: [Carousel] [ JavaScript ]
+- **Computer Graphics** *(Computação Gráfica — **CG**)*
+    - Project 1: [Crane](https://github.com/MateuSpencer/CG_Projeto_B_23-24) [ JavaScript, Three.js ]
+    - Project 2: [Carousel](https://github.com/MateuSpencer/CG_Projeto_C_23-24) [ JavaScript, Three.js, WebXR ]
  
 - **1st Cycle Integrated Project in Computer Science and Engineering**
     - Open Source Contributions to [Oppia](https://github.com/oppia/oppia)
